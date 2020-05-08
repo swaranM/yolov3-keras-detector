@@ -28,9 +28,8 @@ yolov3.weights have to be downloaded. It can be found on pjreddie.com/yolo
 
 ```
 python main.py -detect_image "samples/harden.jpg"
-![harden](https://github.com/swaran24697/yolov3-keras-detector/blob/master/samples/harden_output.jpg)
-
 ```
+![harden](https://github.com/swaran24697/yolov3-keras-detector/blob/master/samples/harden_output.jpg)
 
 
 ## Requirements
