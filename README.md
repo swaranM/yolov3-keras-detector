@@ -37,5 +37,6 @@ python main.py -detect_image "samples/harden.jpg"
 python     =>3.7
 tensorflow =>1.15
 keras      = 2.3.1
-
+OpenCV     =>3.2.0
+numpy
 ```
